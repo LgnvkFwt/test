@@ -1,0 +1,16 @@
+@import './base.css'; 
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--background);
+    color: var(--text-color);
+    height: 90vh;
+}
+
+#app {
+    height: 100%;
+}
